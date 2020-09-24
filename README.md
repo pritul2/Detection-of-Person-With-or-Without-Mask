@@ -14,8 +14,8 @@ To use this project simply folloe folloeing steps.
    detected_image = FaceMasque.mask_detection(original_image)
    
 ### The output is in below youtube link.    
-https://youtu.be/iNky6LRyqvc.   
-[![Person_with_mask](https://i.ytimg.com/vi/iNky6LRyqvc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAX-vBVsajGC9S40SIe6FtLnJiBaA)](https://youtu.be/iNky6LRyqvc)
+https://youtu.be/CAJC8iWRqrk.   
+ [![Person_with_mask](https://i.ytimg.com/vi/CAJC8iWRqrk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBBlaQkGO8q7kj2NMuX4MRr1UB3-A)](https://youtu.be/CAJC8iWRqrk)
 
 
 In this lock down situation, we decided to represent our idea on Personal Hygiene which is a contribution from our side to this pandemic of corona virus.
